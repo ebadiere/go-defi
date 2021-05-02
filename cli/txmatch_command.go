@@ -9,7 +9,7 @@ import (
 
 	"github.com/bonedaddy/go-defi/bclient"
 	"github.com/bonedaddy/go-defi/config"
-	"github.com/bonedaddy/go-defi/txmatch"
+	"github.com/ebadiere/go-defi/txmatch"
 	"github.com/urfave/cli/v2"
 )
 
